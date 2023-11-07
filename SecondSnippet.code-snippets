@@ -1,0 +1,24 @@
+{
+    "Print to console": {
+        "prefix": "html",
+        "body": [
+            "<!DOCTYPE html>",
+            "<html>",
+            "<head>",
+            "    <meta charset=\"UTF-8\">",
+            "    <!-- Danielius Bernotas, EF-22/1 -->",
+            "    <link rel=\"next\" href=\"lab_8.html\">",
+            "    <title>Mano HTML Dokumentas</title>",
+            "</head>",
+            "<body>",
+            "    <h1>ALIO VALIO ir Internetas</h1>",
+            "    <p>Tai yra pirmas mano kodas html</p>",
+            "    <p>Tai yra paryškintas <b>tekstas</b></p>",
+            "    <p>Tai yra pasviręs <i>tekstas</i></p>",
+            "    <p>Tai yra pabrauktas <u>tekstas</u></p>",
+            "</body>",
+            "</html>"
+        ],
+        "description": "Create a basic HTML document"
+    }
+}
